@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/syedafroz_pasha" target="blank"><img src="https://img.shields.io/twitter/follow/syedafroz_pasha?logo=twitter&style=for-the-badge" alt="syedafroz_pasha" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@syed.afroz.pasha](https://medium.com/@syed.afroz.pasha)
+- 📝 I occasionally write articles on [https://medium.com/@syed.afroz.pasha](https://medium.com/@syed.afroz.pasha)
 
-- 💬 Ask me about **React and Node.js**
+- 💬 Ask me about **React.js, Node.js and AWS**
 
 - 📫 How to reach me **afroz.pasha26@gmail.com**
 
